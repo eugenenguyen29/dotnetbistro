@@ -1,6 +1,7 @@
 ---
 title: "Flatcar With Incus as Light Weight Homelab Infrastructure"
 date: 2025-01-12
+draft: true
 tags:
   - Homelab
   - Flatcar
