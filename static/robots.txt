@@ -1,0 +1,10 @@
+# robots.txt for blog.dotnetbistro.cloud
+User-agent: *
+Allow: /
+
+# Block sensitive paths (none for a public blog, but good practice)
+Disallow: /admin/
+Disallow: /private/
+
+# Sitemap location
+Sitemap: https://blog.dotnetbistro.cloud/sitemap.xml

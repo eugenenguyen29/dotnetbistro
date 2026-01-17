@@ -1,0 +1,19 @@
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+
+[params.author]
+  name = "Eugene"
+  headline = "Cosplay as IT Support"
+  bio = "Welcome to dotnet bistro where I nagging about tech and homelabbing"
+
+[[params.author.links]]
+  linkedin = "https://www.linkedin.com/in/eugenenguyenau/"
+
+[[params.author.links]]
+  email = "mailto:eugene@dotnetbistro.cloud"
+
+[[params.author.links]]
+  github = "https://github.com/eugenenguyen29"

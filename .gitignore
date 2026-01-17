@@ -1,0 +1,21 @@
+# Hugo build output
+public/
+resources/_gen/
+
+# Hugo modules
+go.sum
+
+# Editor/IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Nix
+result
+result-*
