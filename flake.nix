@@ -24,6 +24,7 @@
             hugo # Hugo static site generator (extended version with SCSS support)
             git # For git submodules
             go # For Hugo modules
+            wrangler
           ];
 
           shellHook = ''

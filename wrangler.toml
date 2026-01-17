@@ -1,6 +1,0 @@
-# Cloudflare Pages configuration
-name = "dotnetbistro"
-pages_build_output_dir = "public"
-
-# Compatibility settings
-compatibility_date = "2025-01-17"
